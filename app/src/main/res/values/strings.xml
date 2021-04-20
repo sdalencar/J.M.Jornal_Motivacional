@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">J. M. Jornal Motivacional</string>
+    <string name="todo">TODO</string>
+    <string name="data">Data</string>
+    <string name="titulo">Título Notícias</string>
+    <string name="anterior">anterior</string>
+    <string name="pr_xima">próxima</string>
+</resources>
